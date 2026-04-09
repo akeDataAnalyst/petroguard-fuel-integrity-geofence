@@ -1,5 +1,5 @@
 # Fuel Integrity & Geofence Intelligence
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://petroguard-fuel-integrity-geofence-c8t3x4tq8pv6hvar7f84bd.streamlit.app/)
 
 ## Description
 PetroGuard Elite is a high-fidelity telematics dashboard designed to detect and analyze fuel theft in real-time. By synchronizing GPS geofencing with volumetric sensor data, the system identifies "Transit Shrinkage" that traditional manual auditing misses. It applies ASTM D1250 standards to differentiate between natural thermal expansion and unauthorized valve actuations.
