@@ -1,0 +1,61 @@
+timestamp,phase,latitude,longitude,temp_c,gross_volume_l,valve_status,vcf_applied
+2025-04-08 07:00:00,1. Pre-Trip Inspection,29.721,-95.125,18.98,0.0,Closed,False
+2025-04-08 07:05:00,1. Pre-Trip Inspection,29.721,-95.125,19.03,0.0,Closed,False
+2025-04-08 07:10:00,1. Pre-Trip Inspection,29.721,-95.125,19.19,0.0,Closed,False
+2025-04-08 07:15:00,2. Departure to Depot,29.721,-95.125,19.32,0.0,Closed,False
+2025-04-08 07:20:00,2. Departure to Depot,29.721,-95.125,19.27,0.0,Closed,False
+2025-04-08 07:25:00,2. Departure to Depot,29.721,-95.125,19.48,0.0,Closed,False
+2025-04-08 07:30:00,2. Departure to Depot,29.721,-95.125,19.42,0.0,Closed,False
+2025-04-08 07:35:00,3. Entry & Loading,29.721,-95.125,19.72,36142.66,Open,False
+2025-04-08 07:40:00,3. Entry & Loading,29.721,-95.125,19.75,36143.76,Open,False
+2025-04-08 07:45:00,3. Entry & Loading,29.721,-95.125,19.68,36141.6,Open,False
+2025-04-08 07:50:00,3. Entry & Loading,29.721,-95.125,19.85,36146.54,Open,False
+2025-04-08 07:55:00,3. Entry & Loading,29.721,-95.125,19.89,36147.8,Open,False
+2025-04-08 08:00:00,3. Entry & Loading,29.721,-95.125,19.99,36150.91,Open,False
+2025-04-08 08:05:00,3. Entry & Loading,29.721,-95.125,19.9,36148.27,Open,False
+2025-04-08 08:10:00,3. Entry & Loading,29.721,-95.125,20.24,36158.38,Open,False
+2025-04-08 08:15:00,3. Entry & Loading,29.721,-95.125,20.34,36161.44,Open,False
+2025-04-08 08:20:00,3. Entry & Loading,29.721,-95.125,20.32,36160.87,Open,False
+2025-04-08 08:25:00,4. Stabilization (Post-Load),29.721,-95.125,20.52,36167.07,Closed,False
+2025-04-08 08:30:00,4. Stabilization (Post-Load),29.721,-95.125,20.29,36159.99,Closed,False
+2025-04-08 08:35:00,4. Stabilization (Post-Load),29.721,-95.125,20.65,36170.94,Closed,False
+2025-04-08 08:40:00,5. Transit to Katy,29.721,-95.125,20.48,36165.72,Closed,False
+2025-04-08 08:45:00,5. Transit to Katy,29.72507,-95.1716,20.68,36153.862857142856,Closed,False
+2025-04-08 08:50:00,5. Transit to Katy,29.72913,-95.2182,20.85,36141.24571428572,Closed,False
+2025-04-08 08:55:00,5. Transit to Katy,29.7332,-95.2648,20.72,36119.42857142857,Closed,False
+2025-04-08 09:00:00,5. Transit to Katy,29.73727,-95.3114,20.79,36103.72142857143,Closed,False
+2025-04-08 09:05:00,5. Transit to Katy,29.74133,-95.358,20.83,36086.99428571428,Closed,False
+2025-04-08 09:10:00,5. Transit to Katy,29.7454,-95.4046,21.02,36074.76714285715,Closed,False
+2025-04-08 09:15:00,5. Transit to Katy,29.74947,-95.4512,21.23,36063.34,Open (ALERT),False
+2025-04-08 09:20:00,5. Transit to Katy,29.75353,-95.4978,21.19,36044.22285714286,Closed,False
+2025-04-08 09:25:00,5. Transit to Katy,29.7576,-95.5444,21.34,36030.885714285716,Closed,False
+2025-04-08 09:30:00,5. Transit to Katy,29.76167,-95.591,21.2,36008.95857142857,Closed,False
+2025-04-08 09:35:00,5. Transit to Katy,29.76573,-95.6376,21.58,36002.421428571426,Closed,False
+2025-04-08 09:40:00,5. Transit to Katy,29.7698,-95.6842,21.68,35987.57428571428,Closed,False
+2025-04-08 09:45:00,5. Transit to Katy,29.77387,-95.7308,21.75,35971.98714285714,Closed,False
+2025-04-08 09:50:00,5. Transit to Katy,29.77793,-95.7774,21.88,35958.09,Closed,False
+2025-04-08 09:55:00,6. Entry & Stabilization (Station),29.721,-95.125,21.83,36206.55,Closed,False
+2025-04-08 10:00:00,6. Entry & Stabilization (Station),29.721,-95.125,21.99,36211.33,Closed,False
+2025-04-08 10:05:00,6. Entry & Stabilization (Station),29.721,-95.125,22.15,36216.32,Closed,False
+2025-04-08 10:10:00,6. Entry & Stabilization (Station),29.721,-95.125,22.0,36211.66,Closed,False
+2025-04-08 10:15:00,7. Unloading,29.782,-95.824,21.97,32187.49,Open,False
+2025-04-08 10:20:00,7. Unloading,29.782,-95.824,22.16,28168.33,Open,False
+2025-04-08 10:25:00,7. Unloading,29.782,-95.824,22.22,24145.62,Open,False
+2025-04-08 10:30:00,7. Unloading,29.782,-95.824,22.2,20120.91,Open,False
+2025-04-08 10:35:00,7. Unloading,29.782,-95.824,22.48,16100.52,Open,False
+2025-04-08 10:40:00,7. Unloading,29.782,-95.824,22.54,12076.03,Open,False
+2025-04-08 10:45:00,7. Unloading,29.782,-95.824,22.63,8051.24,Open,False
+2025-04-08 10:50:00,7. Unloading,29.782,-95.824,22.7,4025.88,Open,False
+2025-04-08 10:55:00,7. Unloading,29.782,-95.824,22.87,0.0,Open,False
+2025-04-08 11:00:00,8. Return to Base,29.782,-95.824,22.96,0.0,Closed,False
+2025-04-08 11:05:00,8. Return to Base,29.77692,-95.76575,22.81,0.0,Closed,False
+2025-04-08 11:10:00,8. Return to Base,29.77183,-95.7075,23.17,0.0,Closed,False
+2025-04-08 11:15:00,8. Return to Base,29.76675,-95.64925,23.09,0.0,Closed,False
+2025-04-08 11:20:00,8. Return to Base,29.76167,-95.591,23.24,0.0,Closed,False
+2025-04-08 11:25:00,8. Return to Base,29.75658,-95.53275,23.34,0.0,Closed,False
+2025-04-08 11:30:00,8. Return to Base,29.7515,-95.4745,23.28,0.0,Closed,False
+2025-04-08 11:35:00,8. Return to Base,29.74642,-95.41625,23.55,0.0,Closed,False
+2025-04-08 11:40:00,8. Return to Base,29.74133,-95.358,23.59,0.0,Closed,False
+2025-04-08 11:45:00,8. Return to Base,29.73625,-95.29975,23.6,0.0,Closed,False
+2025-04-08 11:50:00,8. Return to Base,29.73117,-95.2415,23.62,0.0,Closed,False
+2025-04-08 11:55:00,8. Return to Base,29.72608,-95.18325,23.9,0.0,Closed,False
